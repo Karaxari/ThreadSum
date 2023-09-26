@@ -1,0 +1,5 @@
+﻿  ThreadSum.cpp
+  ThreadTest.cpp
+C:\Users\Karak\source\repos\ThreadSum\ThreadSum\ThreadTest.cpp(6,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  ThreadSum.vcxproj -> C:\Users\Karak\source\repos\ThreadSum\x64\Debug\ThreadSum.exe
